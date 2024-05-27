@@ -3,6 +3,14 @@
         {
             "templateId": "Basic (Built-in)",
             "isEnabled": true
+        },
+        {
+            "templateId": "Empty",
+            "isEnabled": true
+        },
+        {
+            "templateId": "Basic (URP)",
+            "isEnabled": false
         }
     ],
     "dependencyTypeInfos": [
